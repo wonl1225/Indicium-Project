@@ -1,7 +1,7 @@
 from google import genai
 
 # Replace with the API key your TA will give you
-API_KEY = "AIzaSyBO0HxMR4SztL8f85R4SQIFPmKcqWJ8vtw"
+API_KEY = "YOUR_API_KEY"
 
 client = genai.Client(api_key=API_KEY)
 
