@@ -7,7 +7,7 @@ conversation = []
 print("this is AI Chat (type 'E' to quit)")
 
 while True:
-    user_input = input("Type here: ")
+    user_input = input("You: ")
 
     if user_input.upper() == "E":
         break
